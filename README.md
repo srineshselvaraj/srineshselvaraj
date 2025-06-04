@@ -1,17 +1,17 @@
 # 👋 About me
-Hi, I'm Srinesh Selvaraj, and I am a dedicated and enthusiastic computer science student attending the NJIT Honors College.
+Hi, I'm Srinesh Selvaraj, a CS student passionate about technology, with a strong focus in software development and artificial intelligence.
 
-# 🌱 I'm currently learning
-- React.js
-- Express.js
+# 🛠️ Tech Stack
+- Languages: Python, Java, C#
+- Web: React, Node, Flask, Django, HTML/CSS
+- Tools: Git, VS Code
 
-# 💬 Ask me about
-- Java
-- Python
-- Unity
+## 📊 GitHub Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=srineshselvaraj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srineshselvaraj&layout=compact)
 
-# 📫 How to reach me
-- Email: ss4872@njit.edu
+# 📫 Connect with me
+- Email: srineshselvaraj@njit.edu
 - LinkedIn: https://www.linkedin.com/in/srinesh-selvaraj/
 
 
