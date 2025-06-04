@@ -3,7 +3,8 @@ Hi, I'm Srinesh Selvaraj, a CS student passionate about technology, with a stron
 
 # 🛠️ Tech Stack
 - Languages: Python, Java, C#
-- Web: React, Node, Flask, Django, HTML/CSS
+- Web: React, Node, Flask, Django, HTML/CSS, PHP
+- Data: Pandas, Matplotlib, scikit-learn, MySQL, PostgreSQL
 - Tools: Git, VS Code
 
 # 📫 Connect with me
