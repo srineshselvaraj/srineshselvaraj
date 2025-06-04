@@ -6,10 +6,6 @@ Hi, I'm Srinesh Selvaraj, a CS student passionate about technology, with a stron
 - Web: React, Node, Flask, Django, HTML/CSS
 - Tools: Git, VS Code
 
-## 📊 GitHub Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=srineshselvaraj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srineshselvaraj&layout=compact)
-
 # 📫 Connect with me
 - Email: srineshselvaraj@njit.edu
 - LinkedIn: https://www.linkedin.com/in/srinesh-selvaraj/
