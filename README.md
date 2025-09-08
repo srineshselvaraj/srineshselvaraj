@@ -8,7 +8,7 @@ Hi, I'm Srinesh Selvaraj, a CS student passionate about technology, with a stron
 - Tools: Git, VS Code
 
 # 📫 Connect with me
-- Email: srineshselvaraj@njit.edu
+- Email: srineshselvaraj@gmail.com
 - LinkedIn: https://www.linkedin.com/in/srinesh-selvaraj/
 
 
